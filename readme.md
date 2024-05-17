@@ -7,7 +7,7 @@ To achieve these colour-coded polar plots, the Openair package is used; this pac
 Along with polar plots, code for simple mean temperatures and percentage changes in temperatures and wind speed is included.
 <br>
 <br>
-The data is stored in an NCD file, so an NCDF reader is also installed, which can be skipped.
+The data is stored in an NCD file, so an NCDF reader is also installed, which can be skipped. The data consists of wind speed, wind direction, temperature, and time(yyyy-mm-dd hh:ss).
 <br>
 <br>
 the end plots look like this.
